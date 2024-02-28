@@ -3,7 +3,7 @@
 I am a Part-Time Student at App-Academy based in the Monterey County, California. 
 I have a Bachelor's of Science degree in Political Science with a Concentration in Pre-Law and previously worked in Immigration Law as a Paralegal.
 
-![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gothamshow_icons=true)
+![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=porkyjames&theme=gothamshow_icons=true)
 
 ## I am currently learning:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,redux,sequelize,nodejs,linux,sqlite,express,bootstrap)](https://skillicons.dev)
