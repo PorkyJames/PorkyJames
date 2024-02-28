@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+I am a Part-Time Student at App-Academy based in the Monterey County, California. 
+I have a Bachelor's of Science degree in Political Science with a Concentration in Pre-Law and previously worked in Immigration Law as a Paralegal.
+
+![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gothamshow_icons=true)
+
+## I am currently learning:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,redux,sequelize,nodejs,linux,sqlite,express,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,postgres,postman,docker)](https://skillicons.dev)
 
 <!--
 **PorkyJames/PorkyJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
