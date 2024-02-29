@@ -7,7 +7,7 @@ Some of my interests include exploring new cities, snowboarding, rock climbing, 
 
 ![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=porkyjames&theme=gothamshow_icons=true)
 
-## I am currently learning:
+## I am currently utilizing and learning:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,redux,sequelize,nodejs,linux,sqlite,express,bootstrap,py,flask,postgres,postman,docker)](https://skillicons.dev)
 
 <!--
