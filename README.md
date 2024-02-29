@@ -1,7 +1,9 @@
 # Hi there 👋
 
-I am a Part-Time Student at App-Academy based in the Monterey County, California. 
-I have a Bachelor's of Science degree in Political Science with a Concentration in Pre-Law and previously worked in Immigration Law as a Paralegal.
+I am a motivated student at App-Academy and am based in the Monterey County, California. 
+I have a BA in Political Science with a Concentration in Pre-Law and previously worked two prestigious Immigration Law firms as a Paralegal.
+
+Some of my interests include exploring new cities, snowboarding, rock climbing, and reading. I love picking up new hobbies and learning new skills as well!
 
 ![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=porkyjames&theme=gothamshow_icons=true)
 
