@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I am a motivated student at App-Academy based in the Monterey County, California. 
-I have a BA in Political Science with a Concentration in Pre-Law and previously worked in two prestigious Immigration Law firms as a Paralegal prior to making the switch to Full Stack Development.
+I have a BA in Political Science with a Concentration in Pre-Law and previously worked in Immigration Law as a Paralegal prior to making the switch to Full Stack Development.
 
 Some of my interests include exploring new cities, snowboarding, and rock climbing. I love picking up new hobbies and learning new skills as well!
 
