@@ -5,16 +5,14 @@ I have a BA in Political Science with a concentration in Pre-Law and previously 
 
 Some of my interests include exploring new cities, snowboarding, and rock climbing. I love picking up new hobbies and skills as well!
 
+[![James GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=porkyjames&show_icons=true&theme=react#gh-dark-mode-only)](https://github.com/porkyjames/github-readme-stats#gh-dark-mode-only)
+
 ## Let's Connect!
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## Here's what I'm currently using!
-
-<div style="display": flex; flex-direction: row;">
-  <img class="img" src=https://github-readme-stats.vercel.app/api?username=porkyjames&theme=gothamshow_icons=true />
-  <img class="img" src=https://github-readme-stats.vercel.app/api/top-langs/?username=PorkyJames&layout=donut />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porkyjames&layout=donut)](https://github.com/porkyjames/github-readme-stats)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
