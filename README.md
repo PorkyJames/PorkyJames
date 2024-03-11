@@ -3,7 +3,7 @@
 I am a motivated student at App-Academy based in the Monterey County, California. 
 I have a BA in Political Science with a concentration in Pre-Law and previously worked in Immigration Law as a Paralegal prior to making the switch to Full Stack Development.
 
-As a versatile and curious individual, some of my hobbies include snowboarding, rock climbing, listening to podcasts, reading, and learning everyday!!
+As a versatile and curious individual, some of my hobbies include snowboarding, rock climbing, listening to podcasts, reading, and learning everyday!
 
 [![James GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=porkyjames&show_icons=true&theme=react#gh-dark-mode-only)](https://github.com/porkyjames/github-readme-stats#gh-dark-mode-only)
 
