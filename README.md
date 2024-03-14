@@ -3,7 +3,7 @@
 I am a detail-oriented and motivated Full Stack Software Engineer based in the Monterey County, California. 
 I have a BA in Political Science with a concentration in Pre-Law and previously worked in Immigration Law as a Paralegal prior to making the switch to Full Stack Development.
 
-My background in Immigration Law allows for me to be meticulous in my every day life and pay attention to specifics that may cause a prevalent issue in the long run. Moreover, as a versatile and curious individual, some of my hobbies include snowboarding, rock climbing, listening to podcasts, reading, and learning everyday!
+My background in Immigration Law allows for me to be meticulous in my every day life and pay attention to specifics that may cause a prevalent issue in the long run. Moreover, as a versatile and curious individual, some of my hobbies include snowboarding, rock climbing, listening to podcasts, reading, and learning everyday!!
 
 [![James GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=porkyjames&show_icons=true&theme=react#gh-dark-mode-only)](https://github.com/porkyjames/github-readme-stats#gh-dark-mode-only)
 
